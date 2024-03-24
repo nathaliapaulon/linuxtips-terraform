@@ -3,6 +3,8 @@
 TERRAFORM
 
 terraform.io
+Documentação oficial
+https://developer.hashicorp.com/terraform/language/modules
 
 Infraestrutura mutável
 	A infraestrutura mutável, em oposição à infraestrutura imutável, é uma abordagem em que as alterações são feitas diretamente nos servidores existentes. Embora a infraestrutura mutável possa ser mais fácil 
@@ -83,3 +85,5 @@ EXPRESSIONS
 
 TERRAFORM CONSOLE
 	terraform console [OPÇÃO] [DIRETORIO]
+
+![alt text](image.png)
